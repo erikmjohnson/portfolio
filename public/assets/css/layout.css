@@ -34,7 +34,9 @@ clear: both;
     .container {
       width: 1200px;
     }
-
+    .item header {
+      background: aqua;
+    }
   }
 
   @media screen and (min-width: 961px) and (max-width: 1620px) {
@@ -42,7 +44,9 @@ clear: both;
     .container {
       width: 960px;
     }
-
+    .item header {
+      background: aqua;
+    }
   }
 
   @media screen and (min-width: 961px) and (max-width: 1320px) {
@@ -50,7 +54,9 @@ clear: both;
     .container {
       width: 100%;
     }
-
+    .item header {
+      background: aqua;
+    }
   }
 
   @media screen and (max-width: 960px) {
@@ -58,7 +64,9 @@ clear: both;
     .container {
       width: 100%;
     }
-
+    .item header {
+      background:yellow;
+    }
   }
 
   @media screen and (max-width: 736px) {
@@ -66,7 +74,9 @@ clear: both;
     .container {
       width: 100%;
     }
-
+    .item header {
+      background: red;
+    }
   }
 
 /* Row */
@@ -267,7 +277,7 @@ clear: both;
   }
 
     .row > * {
-      padding: 40px 0 0 40px;
+      /* padding: 40px 0 0 40px; */
     }
 
     .row.gtr-uniform {
@@ -510,7 +520,7 @@ clear: both;
       }
 
         .row > * {
-          padding: 40px 0 0 40px;
+          /* padding: 40px 0 0 40px; */
         }
 
         .row.gtr-uniform {
@@ -755,7 +765,7 @@ clear: both;
       }
 
         .row > * {
-          padding: 40px 0 0 40px;
+          /* article.row padding: 40px 0 0 40px; */
         }
 
         .row.gtr-uniform {
@@ -1000,7 +1010,7 @@ clear: both;
       }
 
         .row > * {
-          padding: 20px 0 0 20px;
+          /* padding: 20px 0 0 20px; */
         }
 
         .row.gtr-uniform {
@@ -1245,7 +1255,7 @@ clear: both;
       }
 
         .row > * {
-          padding: 20px 0 0 20px;
+          /* padding: 20px 0 0 20px; */
         }
 
         .row.gtr-uniform {
@@ -1490,7 +1500,7 @@ clear: both;
       }
 
         .row > * {
-          padding: 20px 0 0 20px;
+          /* padding: 20px 0 0 20px; */
         }
 
         .row.gtr-uniform {
@@ -1604,9 +1614,9 @@ clear: both;
 
 		/* Item */
 
-			.item {
+			/* .item {
 				margin-bottom: 20px;
-			}
+			} */
 
 		/* Header */
 
@@ -1677,9 +1687,9 @@ clear: both;
 
 		/* Item */
 
-			.item {
+			/* .item {
 				margin-bottom: 15px;
-			}
+			} */
 
 		/* Icons */
 
@@ -1803,3 +1813,4 @@ clear: both;
 
 	}
   
+  /* Flex Box */

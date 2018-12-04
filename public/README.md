@@ -13,5 +13,5 @@
 * Task 2: Customizing
   * Estimated Time of Completion: __120 minutes__
   * Start Time: __18:48__
-  * End Time: __--:--__
-  * Actual Time of Completion: __0 minutes__
+  * End Time: __19:38__
+  * Actual Time of Completion: __50 minutes__
