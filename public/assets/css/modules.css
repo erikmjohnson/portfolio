@@ -306,7 +306,7 @@ ul.icons {
   }
 
     #main > section.dark {
-      color: black;
+      color: white;
     }
 
       #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -334,7 +334,6 @@ ul.icons {
     }
 
     #main > section.one {
-      background-color: #81918E;
       background-image: url("../../images/bread.jpg");
     }
 

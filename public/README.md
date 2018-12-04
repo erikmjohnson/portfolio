@@ -2,16 +2,16 @@
 
 ## Time Estimates
 
-### Refractoring CSS
+### Extended Portfolio
 
-* Task 1: Refractoring CSS
-  * Estimated Time of Completion: __30 minutes__
-  * Start Time: __19:05__
-  * End Time: __19:49__
-  * Actual Time of Completion: __40 minutes__
+* Task 1: Additiional Functionality
+  * Estimated Time of Completion: __30 hours__
+  * Start Time: __15:00__
+  * End Time: __17:00__
+  * Actual Time of Completion: __2 hours__
 
 * Task 2: Customizing
   * Estimated Time of Completion: __120 minutes__
-  * Start Time: __19:27__
-  * End Time: __21:27__
+  * Start Time: __18:48__
+  * End Time: __--:--__
   * Actual Time of Completion: __0 minutes__
