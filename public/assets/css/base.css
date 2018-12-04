@@ -367,3 +367,19 @@ input, select, textarea {
 		.button:active {
 			background-color: #7eaeac;
 		}
+
+		/* items picture adjustment */
+
+		.item {
+			width: 5em;
+			height: 100%;	
+			margin-top: 1em;
+		}
+
+		.row {
+			display: flex;
+			justify-content: space-evenly;
+			flex-wrap: wrap;
+		}
+
+		
